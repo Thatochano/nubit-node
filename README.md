@@ -1,0 +1,2 @@
+# nubit-node
+run
